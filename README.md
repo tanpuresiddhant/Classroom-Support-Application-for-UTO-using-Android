@@ -12,4 +12,3 @@ This application is designed to perform checks and store the data in google spre
 5)	You will get different form for diffent checks you can provide details and submit it by clicking Continue.
 
 6)	You will get following form to call google api and after clicking that you will get the data that have been submitted to the google form  
-
